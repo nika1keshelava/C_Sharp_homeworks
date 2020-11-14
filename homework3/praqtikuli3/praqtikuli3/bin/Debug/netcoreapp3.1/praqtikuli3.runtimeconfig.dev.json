@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\keshka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\keshka\\.nuget\\packages"
+    ]
+  }
+}

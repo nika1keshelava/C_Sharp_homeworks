@@ -1,0 +1,13 @@
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli5\praqtikuli5\praqtikuli5\obj\Debug\netcoreapp3.1\praqtikuli5.csprojAssemblyReference.cache
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli5\praqtikuli5\praqtikuli5\obj\Debug\netcoreapp3.1\praqtikuli5.AssemblyInfoInputs.cache
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli5\praqtikuli5\praqtikuli5\obj\Debug\netcoreapp3.1\praqtikuli5.AssemblyInfo.cs
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli5\praqtikuli5\praqtikuli5\obj\Debug\netcoreapp3.1\praqtikuli5.csproj.CoreCompileInputs.cache
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli5\praqtikuli5\praqtikuli5\bin\Debug\netcoreapp3.1\praqtikuli5.exe
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli5\praqtikuli5\praqtikuli5\bin\Debug\netcoreapp3.1\praqtikuli5.deps.json
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli5\praqtikuli5\praqtikuli5\bin\Debug\netcoreapp3.1\praqtikuli5.runtimeconfig.json
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli5\praqtikuli5\praqtikuli5\bin\Debug\netcoreapp3.1\praqtikuli5.runtimeconfig.dev.json
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli5\praqtikuli5\praqtikuli5\bin\Debug\netcoreapp3.1\praqtikuli5.dll
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli5\praqtikuli5\praqtikuli5\bin\Debug\netcoreapp3.1\praqtikuli5.pdb
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli5\praqtikuli5\praqtikuli5\obj\Debug\netcoreapp3.1\praqtikuli5.dll
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli5\praqtikuli5\praqtikuli5\obj\Debug\netcoreapp3.1\praqtikuli5.pdb
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli5\praqtikuli5\praqtikuli5\obj\Debug\netcoreapp3.1\praqtikuli5.genruntimeconfig.cache

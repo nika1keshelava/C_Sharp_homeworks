@@ -1,0 +1,13 @@
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli3\praqtikuli3\praqtikuli3\bin\Debug\netcoreapp3.1\praqtikuli3.exe
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli3\praqtikuli3\praqtikuli3\bin\Debug\netcoreapp3.1\praqtikuli3.deps.json
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli3\praqtikuli3\praqtikuli3\bin\Debug\netcoreapp3.1\praqtikuli3.runtimeconfig.json
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli3\praqtikuli3\praqtikuli3\bin\Debug\netcoreapp3.1\praqtikuli3.runtimeconfig.dev.json
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli3\praqtikuli3\praqtikuli3\bin\Debug\netcoreapp3.1\praqtikuli3.dll
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli3\praqtikuli3\praqtikuli3\bin\Debug\netcoreapp3.1\praqtikuli3.pdb
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli3\praqtikuli3\praqtikuli3\obj\Debug\netcoreapp3.1\praqtikuli3.csprojAssemblyReference.cache
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli3\praqtikuli3\praqtikuli3\obj\Debug\netcoreapp3.1\praqtikuli3.AssemblyInfoInputs.cache
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli3\praqtikuli3\praqtikuli3\obj\Debug\netcoreapp3.1\praqtikuli3.AssemblyInfo.cs
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli3\praqtikuli3\praqtikuli3\obj\Debug\netcoreapp3.1\praqtikuli3.csproj.CoreCompileInputs.cache
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli3\praqtikuli3\praqtikuli3\obj\Debug\netcoreapp3.1\praqtikuli3.dll
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli3\praqtikuli3\praqtikuli3\obj\Debug\netcoreapp3.1\praqtikuli3.pdb
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli3\praqtikuli3\praqtikuli3\obj\Debug\netcoreapp3.1\praqtikuli3.genruntimeconfig.cache
