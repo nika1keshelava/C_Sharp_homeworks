@@ -1,0 +1,10 @@
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli1\praqtikuli1\praqtikuli1\obj\Debug\praqtikuli1.csprojAssemblyReference.cache
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli1\praqtikuli1\praqtikuli1\obj\Debug\praqtikuli1.Form1.resources
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli1\praqtikuli1\praqtikuli1\obj\Debug\praqtikuli1.Properties.Resources.resources
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli1\praqtikuli1\praqtikuli1\obj\Debug\praqtikuli1.csproj.GenerateResource.cache
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli1\praqtikuli1\praqtikuli1\obj\Debug\praqtikuli1.csproj.CoreCompileInputs.cache
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli1\praqtikuli1\praqtikuli1\bin\Debug\praqtikuli1.exe.config
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli1\praqtikuli1\praqtikuli1\bin\Debug\praqtikuli1.exe
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli1\praqtikuli1\praqtikuli1\bin\Debug\praqtikuli1.pdb
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli1\praqtikuli1\praqtikuli1\obj\Debug\praqtikuli1.exe
+C:\Users\keshka\Desktop\study material\c#\homeworks\praqtikuli1\praqtikuli1\praqtikuli1\obj\Debug\praqtikuli1.pdb
