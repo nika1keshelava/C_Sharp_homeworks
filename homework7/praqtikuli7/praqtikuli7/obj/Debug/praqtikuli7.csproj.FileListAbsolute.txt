@@ -1,0 +1,10 @@
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework7\praqtikuli7\praqtikuli7\bin\Debug\praqtikuli7.exe.config
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework7\praqtikuli7\praqtikuli7\bin\Debug\praqtikuli7.exe
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework7\praqtikuli7\praqtikuli7\bin\Debug\praqtikuli7.pdb
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework7\praqtikuli7\praqtikuli7\obj\Debug\praqtikuli7.csprojAssemblyReference.cache
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework7\praqtikuli7\praqtikuli7\obj\Debug\praqtikuli7.Form1.resources
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework7\praqtikuli7\praqtikuli7\obj\Debug\praqtikuli7.Properties.Resources.resources
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework7\praqtikuli7\praqtikuli7\obj\Debug\praqtikuli7.csproj.GenerateResource.cache
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework7\praqtikuli7\praqtikuli7\obj\Debug\praqtikuli7.csproj.CoreCompileInputs.cache
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework7\praqtikuli7\praqtikuli7\obj\Debug\praqtikuli7.exe
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework7\praqtikuli7\praqtikuli7\obj\Debug\praqtikuli7.pdb
