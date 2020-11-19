@@ -1,0 +1,10 @@
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework8\homework8\homework8\obj\Debug\homework8.csprojAssemblyReference.cache
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework8\homework8\homework8\obj\Debug\homework8.Form1.resources
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework8\homework8\homework8\obj\Debug\homework8.Properties.Resources.resources
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework8\homework8\homework8\obj\Debug\homework8.csproj.GenerateResource.cache
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework8\homework8\homework8\obj\Debug\homework8.csproj.CoreCompileInputs.cache
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework8\homework8\homework8\bin\Debug\homework8.exe.config
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework8\homework8\homework8\bin\Debug\homework8.exe
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework8\homework8\homework8\bin\Debug\homework8.pdb
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework8\homework8\homework8\obj\Debug\homework8.exe
+C:\Users\keshka\Desktop\study material\c#\homeworks\homework8\homework8\homework8\obj\Debug\homework8.pdb
