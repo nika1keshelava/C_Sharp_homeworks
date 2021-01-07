@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Temp\ADO_1_1\ADO_1_1\bin\Debug\ADO_1_1.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Temp\ADO_1_1\ADO_1_1\bin\Debug\ADO_1_1.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Temp\ADO_1_1\ADO_1_1\bin\Debug\ADO_1_1.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Temp\ADO_1_1\ADO_1_1\obj\Debug\ADO_1_1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Temp\ADO_1_1\ADO_1_1\obj\Debug\ADO_1_1.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Temp\ADO_1_1\ADO_1_1\obj\Debug\ADO_1_1.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Temp\ADO_1_1\ADO_1_1\obj\Debug\ADO_1_1.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Temp\ADO_1_1\ADO_1_1\obj\Debug\ADO_1_1.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Temp\ADO_1_1\ADO_1_1\obj\Debug\ADO_1_1.pdb
